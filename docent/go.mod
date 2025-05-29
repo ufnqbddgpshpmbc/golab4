@@ -1,4 +1,4 @@
-module docent
+module github.com/ufnqbddgpshpmbc/golab4/docent
 
 go 1.24.2
 
