@@ -1,4 +1,4 @@
-module human
+module github.com/ufnqbddgpshpmbc/golab4/human
 
 go 1.24.2
 
