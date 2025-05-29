@@ -1,7 +1,7 @@
 package docent
 
 import (
-	"example.com/human"
+	"github.com/ufnqbddgpshpmbc/golab4/human"
 )
 
 type Docent struct {
