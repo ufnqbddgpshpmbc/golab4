@@ -1,7 +1,7 @@
 package human
 
 import (
-	"example.com/mammal"
+	"github.com/ufnqbddgpshpmbc/golab4/mammal"
 )
 
 type Human struct {
